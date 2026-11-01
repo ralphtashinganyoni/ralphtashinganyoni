@@ -5,11 +5,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ralph-nyoni-b0727a120/)
 [![X](https://img.shields.io/badge/X-Follow-black?logo=x&style=for-the-badge)](https://x.com/NyoniRalph)
 
-I'm a .NET developer in Cape Town. I've been building web apps with ASP.NET Core and Angular since 2019, mostly APIs, authentication, and the tests around them.
+I'm a .NET developer in Johannesburg. I've been building web apps with ASP.NET Core and Angular since 2019, mostly APIs, authentication, and the tests around them.
 
-I make practical videos and write articles about .NET. **The code for every video lives here**, so you can clone it, run it, and use it in your own projects.
+I'm starting a YouTube channel and blog about practical .NET, and I'll share the code for everything I make here.
 
-- 🎥 **Latest video:** FirstOrDefault vs SingleOrDefault in C#: The Bug Hiding in Your Code · [code](https://github.com/ralphtashinganyoni/SingleOrDefaultVsFirstOrDefault)
 - 💬 **Ask me about:** ASP.NET Core APIs, authentication (Identity, JWT, Duende IdentityServer), EF Core, testing, Angular
 - 🌱 **Learning in public:** adding AI to .NET apps with Microsoft.Extensions.AI and Microsoft Agent Framework
-- 📫 **Reach me:** LinkedIn, or leave a comment under any video
+- 📫 **Reach me:** LinkedIn, or the contact form on my website
