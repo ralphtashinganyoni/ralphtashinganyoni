@@ -11,4 +11,4 @@ I'm starting a YouTube channel and blog about practical .NET, and I'll share the
 
 - 💬 **Ask me about:** ASP.NET Core APIs, authentication (Identity, JWT, Duende IdentityServer), EF Core, testing, Angular
 - 🌱 **Learning in public:** adding AI to .NET apps with Microsoft.Extensions.AI and Microsoft Agent Framework
-- 📫 **Reach me:** LinkedIn, or the contact form on my website
+- 📫 **Reach me:** any of the links above, or the contact form on my website
